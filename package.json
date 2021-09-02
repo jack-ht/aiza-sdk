@@ -1,6 +1,6 @@
 {
   "name": "@htsoft/aiza-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aiza GameFi Software Development Kit",
   "main": "index.js",
   "scripts": {
