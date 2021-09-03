@@ -1,4 +1,4 @@
-import { validateVersion, supportedVersions, supportedVersionsTypeMapping } from '@htsoft/aiza-schemas/dist/src';
+import { validateVersion, supportedVersions, supportedVersionsTypeMapping } from '@htsoft/aiza-schemas';
 import * as MetadataTypes from '@htsoft/aiza-schemas/dist/types/types';
 export { MetadataTypes };
 export { validateVersion, supportedVersions, supportedVersionsTypeMapping };
